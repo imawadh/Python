@@ -1,0 +1,6 @@
+A comment is a readable explanation (or annotation) int the code of computer program.
+Comments are only two types : 
+1. single line comments --- #
+2. Multi Line Comments ---- """  """
+pep 8 guideline helps to standardise the way of commenting . pep ---- python enhancement proposal 
+multi line comments is also called block comments.

@@ -1,0 +1,5 @@
+What is Function ?
+
+Function is the block of code that is meant to solve a problem.
+
+Basic Structure of Function ------ 
